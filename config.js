@@ -2,25 +2,25 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6288229683561': { // put your number here
+  '6285786448589': { // put your number here
     name: 'Owner Lord Botz (Creator Botz)',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281392074639': { // put your number here
-    name: 'Agung (Creator2 Botz)',
+  '6285786448589': { // put your number here
+    name: 'Angga Putra (Creator2 Botz)',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6282179163895': { // put your number here
-    name: 'Andi (Testing Botz',
+  '6285692219008': { // put your number here
+    name: 'Putra (Testing Botz',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6287708773367': {
+  '6285786448589': {
     name: 'Lord Botz',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -54,8 +54,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Copyright Lord Botz'
-global.author = 'Lord Botz Best Bot\nBattry: false\nCopyright By ©AmmarBN '
+global.packname = 'Sticker Angga'
+global.author = 'Lord Botz Best Bot\nBattry: false\nCopyright By ©AnggaPutra '
 
 global.multiplier = 39 // The higher, The harder levelup
 
